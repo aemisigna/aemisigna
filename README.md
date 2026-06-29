@@ -1,15 +1,11 @@
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
 
-<img align="right" src="https://komarev.com/ghpvc/?username=aemisigna" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=aemisigna&style=flat-square&color=555555&label=views" alt="Profile views" />
 
-# hi there, i'm [doremy](https://marow.dev/) !
+# hello, i'm [doremy](https://marow.dev/)
 
-> [marow.dev](https://marow.dev) · `@ignasunny` on Discord
+> [`marow.dev`](https://marow.dev) &nbsp;·&nbsp; `@ignasunny` on discord
 
 ---
 
-i like to program and write cool fiction.
-
-## know me? like what i do?
-
-awesome. let's talk.
+i like to program and write cool fiction.  
